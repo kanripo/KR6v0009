@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:06.406840
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 佛為心王菩薩說頭陀經（附註疏）
 #+PROPERTY: CBETA_ID W01n0008
 #+PROPERTY: ID KR6v0009
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 008
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0009_W_001-0251a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 佛為心王菩薩說頭陀經（附註疏）¶
 整理者　方廣錩¶
 ¶
 
@@ -74,10 +74,9 @@
 
 <pb:KR6v0009_W_001-0253a>¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 佛為心王菩薩說頭陀經¶
+佛為心王菩薩說頭陀經¶
 五陰山空寺惠辯禪師註¶
 ¶
 
@@ -693,7 +692,7 @@
 空無所有。名為「出三界」，亦名「三解脫」。)若欲懺悔，五¶
 蓋樹下，靜坐思惟。(經曰：一切業障海，皆從妄想生。若¶
 欲懺悔者，端坐念實相，是名第一懺。「五蓋」者。貪欲蓋、瞋恚¶
-蓋、睡眠蓋、掉悔蓋、疑蓋。能覆佛性，名之為「蓋」。行人觀之，¶
+蓋、睡眠蓋、悼悔蓋、疑蓋。能覆佛性，名之為「蓋」。行人觀之，¶
 空無所有，名為「懺悔」也。)正觀身內，與心論議，捔¶
 智慧力。(生死不住為「論」，寂滅不生為「議」。法與煩惱相競¶
 為「捔」，體達無相，名為「智慧力」也。)煩惱論師，歸依受¶
@@ -1026,9 +1025,9 @@
 　護持淨戒無所犯，
 　心性明珠不變異。¶
 　我今隨分贊嘆佛，
-　唯願大悲哀納受。」
+　唯願大悲哀納受。」」
 #+END_VERSE
-」¶
+¶
 
 爾時佛告心王菩薩：「善哉！善哉！善能稱¶
 嘆頭陀行法，勸諸學人勤行修習諸波羅蜜，莊嚴¶
@@ -1234,11 +1233,11 @@
 〔錄文完〕¶
 ¶
 
-附：關於《佛為心王菩薩說頭陀經》¶
+* 〔附〕關於《佛為心王菩薩說頭陀經》¶
 方廣錩¶
 ¶
 
-一　歷代著錄¶
+** 一　歷代著錄¶
 
 從現存歷代經錄看，最早著錄《佛為心王菩薩說頭陀經》的¶
 是《大週刊定眾經目錄》卷十五之「偽經目錄」：¶
@@ -1314,7 +1313,7 @@
 上半葉，約百年左右。¶
 ¶
 
-二　現存寫本及研究史¶
+** 二　現存寫本及研究史¶
 
 該經因判為偽經，沒有被收入大藏，故後代亡佚。但幸好因¶
 敦煌藏經洞之保存及考古進展而重現於世。有漢文及粟特文兩¶
@@ -1332,36 +1331,36 @@
 沙餘韻》（1930）影印出版。接著，又把它收入新編的《大正藏》第¶
 85卷。¶
 
-與矢吹慶輝大體同時，德國的H.Reichelt發現了該經的粟¶
+與矢吹慶輝大體同時，德國的 H. Reichelt 發現了該經的粟¶
 特文本殘卷，為斯ch353號，首尾均殘。1928年，他把該粟特文¶
-文獻錄文校訂，並譯為德文出版。可參見Diesoghdischen¶
-HandschriftenrestedesBritischenMuseums,Heidelberg,I,¶
-1928,pp.15-32。1929年，法國的E.Benveniste發表文章，對H¶
-.Reichelt的錄校進行批評。他的文章可參見JournalAsiatique,¶
-Paris,1929,ii,pp.188-191。1933年，E.Benveniste又以對H.¶
-Reichelt的粟特文本錄文進行註釋的形式，發表了自己多年研¶
-究的成果，可參見'Notessurlestextessogdiensbouddhiquesdu¶
-BritishMuseum',JournaloftheRoyalAsiaticSociety,London,¶
-1933,pp.33-44。不過，他們都沒有考訂出這個粟特文殘本到底¶
-是什麼經典。1933年，法國著名東方學家P.戴密微指出，粟特¶
+文獻錄文校訂，並譯為德文出版。可參見 Die soghdischen¶
+ Handschriftenreste des Britischen Museums, Heidelberg, I,¶
+ 1928, pp.15-32。1929年，法國的 E. Benveniste 發表文章，對 H¶
+. Reichelt 的錄校進行批評。他的文章可參見 Journal Asiatique,¶
+ Paris, 1929, ii, pp.188-191。1933年，E. Benveniste 又以對 H.¶
+Reichelt 的粟特文本錄文進行註釋的形式，發表了自己多年研¶
+究的成果，可參見 'Notes sur les textes sogdiens bouddhiques du¶
+ British Museum', Journal of the Royal Asiatic Society, London,¶
+ 1933, pp.33-44。不過，他們都沒有考訂出這個粟特文殘本到底¶
+是什麼經典。1933年，法國著名東方學家 P. 戴密微指出，粟特¶
 文本中有「大乘頭陀經」的提法，經中出場的人物是「心王菩薩」，¶
 另外，從該經的內容與傾向，都可以肯定它就是《大正藏》第八十¶
-五卷所收《佛為心王菩薩說頭陀經》。戴密微的文章可參見E.¶
-BenvenisteP.Demieville，'NotessurlefragmantsogdienduBud-dhadhyanasamadhisagarasutra',¶
-JournalAsiatique,Paris,1933,¶
-pp.239-241。粟特文殘本是白文，無註疏，所剩經文祇相當於¶
+五卷所收《佛為心王菩薩說頭陀經》。戴密微的文章可參見 E.¶
+ Benveniste P. Demieville，'Notes sur le fragmant sogdien du Bud-dhadhyanasamadhisagarasutra',¶
+ Journal Asiatique, Paris, 1933,¶
+ pp. 239-241。粟特文殘本是白文，無註疏，所剩經文祇相當於¶
 全經的三分之一弱。其首部與《大正藏》所收漢文本尾部之間還有¶
 大段缺失，並不能直接銜接。但戴密微根據兩個本子的若干相¶
 似之處，正確地判斷出它們為同一經典。應該說，戴密微的上述¶
 研究是很卓越的。其後，學術界對粟特文本《佛為心王菩薩說頭
 <pb:KR6v0009_W_001-0322a>¶
-陀經》的研究沉寂了幾十年。1976年，英國的D.N.MacKenzie¶
+陀經》的研究沉寂了幾十年。1976年，英國的 D. N. MacKenzie¶
 綜合前人的研究，利用電腦對該文獻重新研究，並譯為英文。可¶
-參見D.N.MacKenzie,TheBuddhistSogdianTextsofBritishLibray,¶
-ActaIranica10Tehran-Liege,1976,Notes,pp.40-48。¶
+參見 D. N. MacKenzie, The Buddhist Sogdian Texts of British Libray,¶
+ Acta Iranica 10 Tehran-Liege, 1976, Notes, pp.40-48。¶
 
-值得注意的是該卷的完整編號為：B.M.Or.8212（160）/¶
-SteinCh00353號，從編號看，應為斯坦因第三次中亞探險所得。¶
+值得注意的是該卷的完整編號為：B. M. Or. 8212（160）/¶
+Stein Ch00353 號，從編號看，應為斯坦因第三次中亞探險所得。¶
 我們知道，斯坦因第三次中亞探險時，藏經洞剩餘文獻已經調運¶
 北京。但斯坦因仍然搞到敦煌王道士私自藏匿的500多卷藏經¶
 洞文獻，又從新疆等其他地方發掘到不少古文獻。那麼，該斯¶
@@ -1478,9 +1477,9 @@ ch353號是從哪裡得到的呢？我懷疑它並非敦煌文獻。從斯坦¶
 是即屬北圖、三井兩本之一，尚需考證。¶
 ¶
 
-三　兩個問題¶
+** 三　兩個問題¶
 
-一、經文與註疏的卷數¶
+*** 一、經文與註疏的卷數¶
 
 依照《大週刊定眾經目錄》等歷代經錄，本經為一卷。但現¶
 除津藝本為一卷本外，其餘諸漢文本經名下均有「卷上」字樣，顯¶
@@ -1504,7 +1503,7 @@ ch353號是從哪裡得到的呢？我懷疑它並非敦煌文獻。從斯坦¶
 也就是說，該經的白文本為一卷；註疏本計劃為兩卷或三¶
 卷，但沒有完成。¶
 
-二、經文與註疏的作者¶
+*** 二、經文與註疏的作者¶
 
 湛然在其所著《止觀輔行傳弘決》卷第四之三中說：¶
 
